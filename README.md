@@ -1,4 +1,8 @@
-Hi 👋 My name is mirsaiddev ===========================  Flutter Developer -----------------  I have been working as a freelance flutter developer for 2 years. Now I am Flutter developer in Alchemy Smart and Alatsu.  * 🌍  I'm based in Turkey * ✉️  You can contact me at [mirsaidefendi@gmail.com](mailto:mirsaidefendi@gmail.com) * 🧠  I'm learning Swift, Unity and NodeJS * 🤝  I'm open to collaborating on interesting projects
+Hi 👋 My name is mirsaiddev 
+===========================  
+Flutter Developer 
+-----------------  
+I have been working as a freelance flutter developer for 2 years. Now I am Flutter developer in Alchemy Smart and Alatsu.  * 🌍  I'm based in Turkey * ✉️  You can contact me at [mirsaidefendi@gmail.com](mailto:mirsaidefendi@gmail.com) * 🧠  I'm learning Swift, Unity and NodeJS * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
 
