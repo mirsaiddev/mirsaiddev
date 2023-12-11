@@ -2,7 +2,7 @@ Hi 👋 My name is mirsaiddev
 ===========================  
 Flutter Developer 
 -----------------  
-I have been working as a freelance flutter developer for 3 years. Now I am Flutter developer in Alchemy Smart and Alatsu.  
+I have been working as a freelance flutter developer for 4 years. Now I am project manager in Centirir.
 * 🌍  I'm based in Turkey 
 * ✉️  You can contact me at [mirsaidefendi@gmail.com](mailto:mirsaidefendi@gmail.com) 
 * 🧠  I'm learning Swift, Unity and NodeJS 
